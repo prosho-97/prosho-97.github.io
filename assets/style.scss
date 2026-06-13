@@ -1114,25 +1114,26 @@ main.content,
 
 /* Desktop-only back-to-top arrow refinement.
    Mobile keeps the existing appearance, which is already balanced. */
-@media screen and (min-width: 1321px) {
+@media (hover: hover) and (pointer: fine) {
   .back-to-top {
-    display: inline-flex !important;
-    align-items: center !important;
-    justify-content: center !important;
+    display: grid !important;
+    place-items: center !important;
+    width: 44px !important;
+    height: 44px !important;
     padding: 0 !important;
+    line-height: 1 !important;
     font-size: 0 !important;
-    line-height: 0 !important;
-    text-indent: -9999px;
+    text-indent: 0 !important;
+    overflow: hidden !important;
   }
 
   .back-to-top::before {
     content: "↑";
     display: block;
     color: #ffffff;
-    font-size: 1.6rem;
+    font-size: 1.68rem;
     font-weight: 900;
     line-height: 1;
-    text-indent: 0;
-    transform: translateY(-0.035em);
+    transform: translateY(-0.015em);
   }
 }
