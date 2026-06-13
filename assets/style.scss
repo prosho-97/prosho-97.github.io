@@ -682,14 +682,21 @@ main.content,
   position: fixed;
   right: 2rem;
   bottom: 2rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   width: 44px;
   height: 44px;
+  padding: 0;
   border: 1px solid rgba(255, 255, 255, 0.24);
   border-radius: 50%;
   color: #ffffff;
   background: var(--lp-accent-deep);
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
+  font-size: 1.45rem;
+  line-height: 1;
   font-weight: 900;
+  text-align: center;
   z-index: 20;
   cursor: pointer;
 }
@@ -873,6 +880,7 @@ main.content,
   .back-to-top {
     right: 1rem;
     bottom: 1rem;
+    font-size: 1.25rem;
   }
 }
 
