@@ -1,5 +1,6 @@
 ---
 pagetitle: "Publications"
+description: "Publications by Lorenzo Proietti on Machine Translation, MT Evaluation, MT Meta-Evaluation, Multilinguality, and NLP."
 ---
 
 ```{=html}

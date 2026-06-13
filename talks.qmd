@@ -1,5 +1,6 @@
 ---
 pagetitle: "Talks"
+description: "Invited talks and presentations by Lorenzo Proietti on Machine Translation Evaluation, Meta-Evaluation, and NLP."
 ---
 
 ```{=html}

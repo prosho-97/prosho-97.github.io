@@ -1,5 +1,6 @@
 ---
-pagetitle: "CV | Lorenzo Proietti"
+pagetitle: "CV"
+description: "Curriculum vitae of Lorenzo Proietti, AI and NLP researcher working on Machine Translation, Multilinguality, and LLM Evaluation."
 ---
 
 ```{=html}

@@ -10,6 +10,11 @@ project:
 website:
   favicon: images/profile.jpg
   title: "Lorenzo Proietti"
+  site-url: "https://prosho-97.github.io"
+  description: "Personal website of Lorenzo Proietti, AI and NLP researcher working on Machine Translation, Multilinguality, and LLM Evaluation."
+  image: images/profile.jpg
+  open-graph: true
+  twitter-card: true
   search: false
 
 format:
@@ -25,3 +30,4 @@ format:
     include-after-body: assets/after.html
     anchor-sections: false
     link-external-newwindow: true
+    canonical: true
