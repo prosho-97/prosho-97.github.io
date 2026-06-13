@@ -1,0 +1,43 @@
+---
+pagetitle: "Lorenzo Proietti"
+---
+
+```{=html}
+<div class="lp-page lp-home-page">
+  <header class="page-header home-about-header">
+    <div class="lp-eyebrow">Machine Translation · Multilinguality · LLM Evaluation</div>
+    <h1 class="page-title">About me</h1>
+    <p class="page-intro">I completed my <strong>PhD in Artificial Intelligence and NLP</strong> at <strong>Sapienza University of Rome</strong>, advised by <a href="https://www.diag.uniroma1.it/navigli/">Roberto Navigli</a> in the <a href="https://nlp.uniroma1.it/">Sapienza NLP</a> research group. My research focuses on Multilinguality and LLM Evaluation, with a particular emphasis on Machine Translation.</p>
+    <p class="page-intro">In 2025-2026, I completed internships at <strong>Microsoft</strong> and <strong>Amazon</strong>, working on <strong>Machine Translation evaluation</strong> and <strong>Process Reward Modeling for Tool-Calling LLM Agents</strong>. Since 2025, I have also served as a <strong>WMT shared tasks organizer</strong>.</p>
+  </header>
+
+  <section class="section-block home-news-section">
+    <h2 class="section-title">News</h2>
+    <div class="news-list">
+      <div class="news-item"><div class="news-date">May 2026</div><div class="news-text"><p>I completed my <strong>Amazon Applied Scientist Internship</strong> in Paris, working on <strong>Process Reward Modeling for Tool-Calling LLM Agents</strong>.</p></div></div>
+      <div class="news-item"><div class="news-date">Apr. 2026</div><div class="news-text"><p>Our paper <em>PEAR: Pairwise Evaluation for Automatic Relative Scoring in Machine Translation</em>, resulting from my <strong>Microsoft Research Internship</strong>, has been accepted at the <strong>ACL 2026 Main Conference</strong>.</p></div></div>
+      <div class="news-item"><div class="news-date">Feb. 2026</div><div class="news-text"><p>I gave an invited talk titled <em>Towards More Informative MT Evaluation</em> at <strong>Meta FAIR</strong> in Paris.</p></div></div>
+      <div class="news-item"><div class="news-date">Feb. 2026</div><div class="news-text"><p>I started co-leading the Segment-Level Quality Score Prediction task at the <strong>WMT Automated Translation Quality Shared Task</strong>.</p></div></div>
+      <div class="news-item"><div class="news-date">Jan. 2026</div><div class="news-text"><p>I successfully defended my <strong>PhD thesis</strong>, <em>Towards Better Measurement of Progress in Machine Translation: Evaluation and Meta-Evaluation</em>.</p></div></div>
+      <div class="news-item"><div class="news-date">Dec. 2025</div><div class="news-text"><p>I started my <strong>Amazon Applied Scientist Internship</strong> in Paris, working with Bruno Charron, Jayasimha Talur, and Saab Mansour.</p></div></div>
+      <div class="news-item"><div class="news-date">Nov. 2025</div><div class="news-text"><p>Our shared-task paper <em>Findings of the WMT25 General Machine Translation Shared Task: Time to Stop Evaluating on Easy Test Sets</em> appeared at <strong>WMT 2025</strong>.</p></div></div>
+      <div class="news-item"><div class="news-date">Nov. 2025</div><div class="news-text"><p>Our shared-task paper <em>Findings of the WMT25 Multilingual Instruction Shared Task: Persistent Hurdles in Reasoning, Generation, and Evaluation</em> appeared at <strong>WMT 2025</strong>.</p></div></div>
+      <div class="news-item"><div class="news-date">Oct. 2025</div><div class="news-text"><p>I completed my <strong>Microsoft Research Internship</strong> in Redmond, where I worked on <strong>Machine Translation evaluation</strong>.</p></div></div>
+      <div class="news-item"><div class="news-date">Aug. 2025</div><div class="news-text"><p>Our paper <em>Estimating Machine Translation Difficulty</em> has been accepted to <strong>Findings of EMNLP 2025</strong>.</p></div></div>
+      <div class="news-item"><div class="news-date">Aug. 2025</div><div class="news-text"><p>I gave an invited talk at <strong>Google</strong>’s Multilinguality Reading Group presenting our paper <em>Has Machine Translation Evaluation Achieved Human Parity? The Human Reference and the Limits of Progress</em>.</p></div></div>
+      <div class="news-item"><div class="news-date">Aug. 2025</div><div class="news-text"><p>Our paper <em>Has Machine Translation Evaluation Achieved Human Parity? The Human Reference and the Limits of Progress</em> received a <a href="https://2025.aclweb.org/program/awards/">SAC Highlights Award</a> at <strong>ACL 2025</strong>.</p></div></div>
+      <div class="news-item"><div class="news-date">Jun. 2025</div><div class="news-text"><p>I started my <strong>Microsoft Research Internship</strong> at Microsoft’s headquarters in Redmond, working with Roman Grundkiewicz and Matt Post.</p></div></div>
+      <div class="news-item"><div class="news-date">Jun. 2025</div><div class="news-text"><p>I completed my Visiting PhD Researcher period at the <strong>University of Amsterdam</strong>.</p></div></div>
+      <div class="news-item"><div class="news-date">May 2025</div><div class="news-text"><p>Our paper <em>Has Machine Translation Evaluation Achieved Human Parity? The Human Reference and the Limits of Progress</em> has been accepted at the <strong>ACL 2025 Main Conference</strong>.</p></div></div>
+      <div class="news-item"><div class="news-date">Feb. 2025</div><div class="news-text"><p>I started serving as a <strong>WMT Shared Task organizer</strong> for the General Machine Translation Shared Task and the WMT25 Multilingual Instruction Shared Task.</p></div></div>
+      <div class="news-item"><div class="news-date">Jan. 2025</div><div class="news-text"><p>I started my Visiting PhD Researcher period at the <strong>University of Amsterdam</strong>, working with <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/">Raquel Fernández</a> in the <a href="https://dmg-illc.github.io/dmg/">Dialogue Modelling Group</a>.</p></div></div>
+      <div class="news-item"><div class="news-date">Dec. 2024</div><div class="news-text"><p>I gave an invited talk titled <em>The Opacity in MT Evaluation and Meta-Evaluation</em> at <strong>Microsoft Translator Research</strong>.</p></div></div>
+      <div class="news-item"><div class="news-date">Sep. 2024</div><div class="news-text"><p>Our paper <em>Beyond Correlation: Interpretable Evaluation of Machine Translation Metrics</em> has been accepted at the <strong>EMNLP 2024 Main Conference</strong>.</p></div></div>
+      <div class="news-item"><div class="news-date">Apr. 2024</div><div class="news-text"><p>Our paper <em>Guardians of the Machine Translation Meta-Evaluation: Sentinel Metrics Fall In!</em> has been accepted at the <strong>ACL 2024 Main Conference</strong>.</p></div></div>
+      <div class="news-item"><div class="news-date">Mar. 2024</div><div class="news-text"><p>Our paper <em>Analyzing Homonymy Disambiguation Capabilities of Pretrained Language Models</em> has been accepted at <strong>LREC-COLING 2024</strong>.</p></div></div>
+      <div class="news-item"><div class="news-date">Nov. 2022</div><div class="news-text"><p>I started my PhD in <strong>Artificial Intelligence</strong> at <strong>Sapienza University of Rome</strong>, advised by <a href="https://www.diag.uniroma1.it/navigli/">Roberto Navigli</a> in the <a href="https://nlp.uniroma1.it/">Sapienza NLP</a> research group.</p></div></div>
+      <div class="news-item"><div class="news-date">Oct. 2022</div><div class="news-text"><p>Our paper <em>MaTESe: Machine Translation Evaluation as a Sequence Tagging Problem</em> has been accepted at <strong>WMT 2022</strong>.</p></div></div>
+    </div>
+  </section>
+</div>
+```

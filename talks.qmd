@@ -1,0 +1,48 @@
+---
+pagetitle: "Talks"
+---
+
+```{=html}
+<div class="lp-page lp-talks-page">
+  <header class="page-header page-header-simple">
+    <div class="page-title lp-page-title page-display-title" role="heading" aria-level="1">Talks</div>
+  </header>
+<div class="talk-list">
+    <article class="talk-card">
+      <div class="talk-card-top">
+        <h2>Towards More Informative MT Evaluation</h2>
+        <span class="talk-date-chip">Feb. 2026</span>
+      </div>
+      <div class="talk-meta-row">
+        <span><strong>Host</strong> <i class="fa-brands fa-meta talk-brand-icon" aria-hidden="true"></i> Meta</span>
+        <span><strong>Team</strong> The Omnilingual MT Team</span>
+      </div>
+      <div class="talk-links"><a class="lp-pill" href="https://docs.google.com/presentation/d/1QJFcCrH9qba1MN646TzwsGU8rd4t8wTjNivb9vn4peI/edit?usp=sharing">Slides</a></div>
+    </article>
+
+    <article class="talk-card">
+      <div class="talk-card-top">
+        <h2>Has Machine Translation Evaluation Achieved Human Parity?</h2>
+        <span class="talk-date-chip">Aug. 2025</span>
+      </div>
+      <div class="talk-meta-row">
+        <span><strong>Host</strong> <i class="fa-brands fa-google talk-brand-icon" aria-hidden="true"></i> Google</span>
+        <span><strong>Team</strong> Multilinguality Reading Group</span>
+      </div>
+      <div class="talk-links"><a class="lp-pill" href="https://docs.google.com/presentation/d/1wFzR1gWBsk4ZtK6qIECnNNkKVnQ89CEob1BiCOFISmw/edit?usp=sharing">Slides</a></div>
+    </article>
+
+    <article class="talk-card">
+      <div class="talk-card-top">
+        <h2>The Opacity in MT Evaluation and Meta-Evaluation</h2>
+        <span class="talk-date-chip">Dec. 2024</span>
+      </div>
+      <div class="talk-meta-row">
+        <span><strong>Host</strong> <i class="fa-brands fa-microsoft talk-brand-icon" aria-hidden="true"></i> Microsoft</span>
+        <span><strong>Team</strong> Microsoft Translator Research</span>
+      </div>
+      <div class="talk-links"><a class="lp-pill" href="https://docs.google.com/presentation/d/1Y-UJfp26XOUcazkzugNMneY52Drb9r6pF0jfKHsBka4/edit?usp=sharing">Slides</a></div>
+    </article>
+  </div>
+</div>
+```

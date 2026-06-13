@@ -1,0 +1,14 @@
+---
+pagetitle: "CV | Lorenzo Proietti"
+---
+
+```{=html}
+<div class="lp-page">
+  <header class="page-header">
+    <div class="lp-eyebrow">Curriculum vitae</div>
+    <h1 class="page-title">CV</h1>
+    <p class="page-intro">A compact PDF version of my academic and research profile.</p>
+    <div class="contact-links"><a class="lp-pill lp-button-primary" href="files/Lorenzo_Proietti_CV.pdf">Download CV</a></div>
+  </header>
+</div>
+```

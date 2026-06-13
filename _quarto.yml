@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - publications.qmd
+    - talks.qmd
+    - cv.qmd
+
+website:
+  favicon: images/profile.jpg
+  title: "Lorenzo Proietti"
+  search: false
+
+format:
+  html:
+    include-in-header: assets/head.html
+    theme:
+      - cosmo
+      - assets/style.scss
+    toc: false
+    page-layout: full
+    title-block-style: none
+    include-before-body: assets/sidebar.html
+    include-after-body: assets/after.html
+    anchor-sections: false
+    link-external-newwindow: true

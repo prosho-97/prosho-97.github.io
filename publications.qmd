@@ -1,0 +1,60 @@
+---
+pagetitle: "Publications"
+---
+
+```{=html}
+<div class="lp-page lp-publications-page">
+  <header class="page-header page-header-simple">
+    <div class="page-title lp-page-title page-display-title" role="heading" aria-level="1">Publications</div>
+    <div class="publication-filter-wrap">
+      <input id="publication-filter" type="search" placeholder="Type to filter" aria-label="Filter publications">
+    </div>
+  </header>
+<div class="publication-list">
+    
+<div class="publication-year-row" data-year="2026"><span class="publication-year-line"></span><span class="publication-year-label">2026</span></div>
+<article class="publication-item">
+      <div><span class="pub-badge">ACL 2026</span></div>
+      <div>
+        <h2 class="publication-title"><a href="https://arxiv.org/abs/2601.18006">PEAR: Pairwise Evaluation for Automatic Relative Scoring in Machine Translation</a></h2>
+        <p class="publication-authors"><strong>Lorenzo Proietti</strong>, Roman Grundkiewicz, and Matt Post.</p>
+        <p class="publication-venue">To appear in Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, San Diego, CA, USA. Association for Computational Linguistics.</p>
+        <div class="publication-links"><a class="lp-pill" href="https://arxiv.org/abs/2601.18006">arXiv</a><a class="lp-pill" href="https://2026.aclweb.org/">Conference</a></div>
+      </div>
+    </article>
+
+    <article class="publication-item">
+      <div><span class="pub-badge">PhD Thesis</span></div>
+      <div>
+        <h2 class="publication-title"><a href="https://tesidottorato.depositolegale.it/handle/20.500.14242/361831?mode=simple">Towards Better Measurement of Progress in Machine Translation: Evaluation and Meta-Evaluation</a></h2>
+        <p class="publication-authors"><strong>Lorenzo Proietti</strong>.</p>
+        <p class="publication-venue">PhD thesis, Sapienza University of Rome.</p>
+        <div class="publication-links"><a class="lp-pill" href="https://tesidottorato.depositolegale.it/handle/20.500.14242/361831?mode=simple">UNITESI</a></div>
+      </div>
+    </article>
+  </div>
+<div class="publication-list">
+    
+<div class="publication-year-row" data-year="2025"><span class="publication-year-line"></span><span class="publication-year-label">2025</span></div>
+<article class="publication-item"><div><span class="pub-badge">EMNLP 2025</span></div><div><h2 class="publication-title"><a href="https://aclanthology.org/2025.findings-emnlp.1317/">Estimating Machine Translation Difficulty</a></h2><p class="publication-authors"><strong>Lorenzo Proietti</strong><sup>∗</sup>, Stefano Perrella<sup>∗</sup>, Vilém Zouhar<sup>∗</sup>, Roberto Navigli, and Tom Kocmi.</p><p class="publication-venue">In Findings of the Association for Computational Linguistics: EMNLP 2025, pages 24261–24285, Suzhou, China. Association for Computational Linguistics.</p><div class="publication-links"><a class="lp-pill" href="https://aclanthology.org/2025.findings-emnlp.1317/">ACL Anthology</a></div></div></article>
+    <article class="publication-item"><div><span class="pub-badge">ACL 2025</span></div><div><h2 class="publication-title"><a href="https://aclanthology.org/2025.acl-short.63/">Has Machine Translation Evaluation Achieved Human Parity? The Human Reference and the Limits of Progress</a></h2><p class="publication-authors"><strong>Lorenzo Proietti</strong><sup>∗</sup>, Stefano Perrella<sup>∗</sup>, and Roberto Navigli.</p><p class="publication-venue">In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, pages 790–813, Vienna, Austria. Association for Computational Linguistics.</p><div class="publication-links"><a class="lp-pill" href="https://aclanthology.org/2025.acl-short.63/">ACL Anthology</a><a class="lp-pill" href="https://2025.aclweb.org/program/awards/">Award</a></div></div></article>
+    <article class="publication-item"><div><span class="pub-badge">WMT 2025</span></div><div><h2 class="publication-title"><a href="https://aclanthology.org/2025.wmt-1.22/">Findings of the WMT25 General Machine Translation Shared Task: Time to Stop Evaluating on Easy Test Sets</a></h2><p class="publication-authors">Tom Kocmi, Ekaterina Artemova, Eleftherios Avramidis, Rachel Bawden, Ondřej Bojar, Konstantin Dranch, Anton Dvorkovich, Sergey Dukanov, Mark Fishel, Markus Freitag, Thamme Gowda, Roman Grundkiewicz, Barry Haddow, Marzena Karpinska, Philipp Koehn, Howard Lakougna, Jessica Lundin, Christof Monz, Kenton Murray, Masaaki Nagata, Stefano Perrella, <strong>Lorenzo Proietti</strong>, Martin Popel, Maja Popović, Parker Riley, Mariya Shmatova, Steinþór Steingrímsson, Lisa Yankovskaya, and Vilém Zouhar.</p><p class="publication-venue">In Proceedings of the Tenth Conference on Machine Translation, pages 355–413, Suzhou, China. Association for Computational Linguistics.</p><div class="publication-links"><a class="lp-pill" href="https://aclanthology.org/2025.wmt-1.22/">ACL Anthology</a></div></div></article>
+    <article class="publication-item"><div><span class="pub-badge">WMT 2025</span></div><div><h2 class="publication-title"><a href="https://aclanthology.org/2025.wmt-1.23/">Findings of the WMT25 Multilingual Instruction Shared Task: Persistent Hurdles in Reasoning, Generation, and Evaluation</a></h2><p class="publication-authors">Tom Kocmi, Sweta Agrawal, Ekaterina Artemova, Eleftherios Avramidis, Eleftheria Briakou, Pinzhen Chen, Marzieh Fadaee, Markus Freitag, Roman Grundkiewicz, Yupeng Hou, Philipp Koehn, Julia Kreutzer, Saab Mansour, Stefano Perrella, <strong>Lorenzo Proietti</strong>, Parker Riley, Eduardo Sánchez, Patricia Schmidtova, Mariya Shmatova, and Vilém Zouhar.</p><p class="publication-venue">In Proceedings of the Tenth Conference on Machine Translation, pages 414–435, Suzhou, China. Association for Computational Linguistics.</p><div class="publication-links"><a class="lp-pill" href="https://aclanthology.org/2025.wmt-1.23/">ACL Anthology</a></div></div></article>
+    <article class="publication-item"><div><span class="pub-badge">arXiv</span></div><div><h2 class="publication-title"><a href="https://arxiv.org/abs/2508.14909">Preliminary Ranking of WMT25 General Machine Translation Systems</a></h2><p class="publication-authors">Tom Kocmi, Eleftherios Avramidis, Rachel Bawden, Ondřej Bojar, Konstantin Dranch, Anton Dvorkovich, Sergey Dukanov, Natalia Fedorova, Mark Fishel, Markus Freitag, Thamme Gowda, Roman Grundkiewicz, Barry Haddow, Marzena Karpinska, Philipp Koehn, Howard Lakougna, Jessica Lundin, Kenton Murray, Masaaki Nagata, Stefano Perrella, <strong>Lorenzo Proietti</strong>, Martin Popel, Maja Popović, Parker Riley, Mariya Shmatova, Steinþór Steingrímsson, Lisa Yankovskaya, and Vilém Zouhar.</p><p class="publication-venue">arXiv:2508.14909.</p><div class="publication-links"><a class="lp-pill" href="https://arxiv.org/abs/2508.14909">arXiv</a></div></div></article>
+  </div>
+<div class="publication-list">
+    
+<div class="publication-year-row" data-year="2024"><span class="publication-year-line"></span><span class="publication-year-label">2024</span></div>
+<article class="publication-item"><div><span class="pub-badge">EMNLP 2024</span></div><div><h2 class="publication-title"><a href="https://aclanthology.org/2024.emnlp-main.1152/">Beyond Correlation: Interpretable Evaluation of Machine Translation Metrics</a></h2><p class="publication-authors">Stefano Perrella<sup>∗</sup>, <strong>Lorenzo Proietti</strong><sup>∗</sup>, Pere-Lluís Huguet Cabot, Edoardo Barba, and Roberto Navigli.</p><p class="publication-venue">In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 20689–20714, Miami, Florida, USA. Association for Computational Linguistics.</p><div class="publication-links"><a class="lp-pill" href="https://aclanthology.org/2024.emnlp-main.1152/">ACL Anthology</a></div></div></article>
+    <article class="publication-item"><div><span class="pub-badge">ACL 2024</span></div><div><h2 class="publication-title"><a href="https://aclanthology.org/2024.acl-long.856/">Guardians of the Machine Translation Meta-Evaluation: Sentinel Metrics Fall In!</a></h2><p class="publication-authors">Stefano Perrella<sup>∗</sup>, <strong>Lorenzo Proietti</strong><sup>∗</sup>, Alessandro Scirè, Edoardo Barba, and Roberto Navigli.</p><p class="publication-venue">In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics, pages 16216–16244, Bangkok, Thailand. Association for Computational Linguistics.</p><div class="publication-links"><a class="lp-pill" href="https://aclanthology.org/2024.acl-long.856/">ACL Anthology</a></div></div></article>
+    <article class="publication-item"><div><span class="pub-badge">LREC-COLING 2024</span></div><div><h2 class="publication-title"><a href="https://aclanthology.org/2024.lrec-main.83/">Analyzing Homonymy Disambiguation Capabilities of Pretrained Language Models</a></h2><p class="publication-authors"><strong>Lorenzo Proietti</strong>, Stefano Perrella, Simone Tedeschi, Giulia Vulpis, Leonardo Lavalle, Andrea Sanchietti, Andrea Ferrari, and Roberto Navigli.</p><p class="publication-venue">In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, pages 924–938, Torino, Italia. ELRA and ICCL.</p><div class="publication-links"><a class="lp-pill" href="https://aclanthology.org/2024.lrec-main.83/">ACL Anthology</a></div></div></article>
+  </div>
+<div class="publication-list">
+    
+<div class="publication-year-row" data-year="2022"><span class="publication-year-line"></span><span class="publication-year-label">2022</span></div>
+<article class="publication-item"><div><span class="pub-badge">WMT 2022</span></div><div><h2 class="publication-title"><a href="https://aclanthology.org/2022.wmt-1.51/">MaTESe: Machine Translation Evaluation as a Sequence Tagging Problem</a></h2><p class="publication-authors">Stefano Perrella, <strong>Lorenzo Proietti</strong>, Alessandro Scirè, Niccolò Campolungo, and Roberto Navigli.</p><p class="publication-venue">In Proceedings of the Seventh Conference on Machine Translation, pages 569–577, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.</p><div class="publication-links"><a class="lp-pill" href="https://aclanthology.org/2022.wmt-1.51/">ACL Anthology</a></div></div></article>
+  </div>
+
+  <p class="equal-note"><sup>∗</sup> Denotes equal contribution.</p>
+</div>
+```
