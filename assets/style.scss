@@ -682,21 +682,14 @@ main.content,
   position: fixed;
   right: 2rem;
   bottom: 2rem;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
   width: 44px;
   height: 44px;
-  padding: 0;
   border: 1px solid rgba(255, 255, 255, 0.24);
   border-radius: 50%;
   color: #ffffff;
   background: var(--lp-accent-deep);
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
-  font-size: 1.45rem;
-  line-height: 1;
   font-weight: 900;
-  text-align: center;
   z-index: 20;
   cursor: pointer;
 }
@@ -880,7 +873,6 @@ main.content,
   .back-to-top {
     right: 1rem;
     bottom: 1rem;
-    font-size: 1.25rem;
   }
 }
 
@@ -1117,5 +1109,30 @@ main.content,
     height: 2.25rem !important;
     min-width: 2.25rem !important;
     min-height: 2.25rem !important;
+  }
+}
+
+/* Desktop-only back-to-top arrow refinement.
+   Mobile keeps the existing appearance, which is already balanced. */
+@media screen and (min-width: 1321px) {
+  .back-to-top {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 0 !important;
+    font-size: 0 !important;
+    line-height: 0 !important;
+    text-indent: -9999px;
+  }
+
+  .back-to-top::before {
+    content: "↑";
+    display: block;
+    color: #ffffff;
+    font-size: 1.6rem;
+    font-weight: 900;
+    line-height: 1;
+    text-indent: 0;
+    transform: translateY(-0.035em);
   }
 }
