@@ -678,6 +678,22 @@ main.content,
   padding-inline: 1rem;
 }
 
+.site-footer {
+  width: min(100%, var(--lp-content-max));
+  max-width: var(--lp-content-max);
+  margin: 0 auto;
+  padding: 1.5rem 0 2.25rem;
+  border-top: 1px solid var(--lp-border);
+  color: var(--lp-muted);
+  text-align: center;
+  font-size: 0.88rem;
+  line-height: 1.4;
+}
+
+.site-footer small {
+  font-size: inherit;
+}
+
 .back-to-top {
   position: fixed;
   right: 2rem;
@@ -733,6 +749,10 @@ main.content,
     margin-right: auto !important;
     padding-left: 0 !important;
     padding-right: 0 !important;
+  }
+
+  .site-footer {
+    width: min(calc(100% - clamp(2rem, 8vw, 4rem)), 900px);
   }
 
   .mobile-profile-toggle {
@@ -929,6 +949,10 @@ main.content,
     width: 100% !important;
     max-width: 100% !important;
     padding-top: 4.25rem !important;
+  }
+
+  .site-footer {
+    width: calc(100% - 1.8rem);
   }
 
   .section-title {

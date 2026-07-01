@@ -5,6 +5,13 @@
     topButton.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
   }
 
+  function initCopyrightYear() {
+    const currentYear = String(new Date().getFullYear());
+    document.querySelectorAll('[data-current-year]').forEach(function (element) {
+      element.textContent = currentYear;
+    });
+  }
+
   function initCompactLayout() {
     const COMPACT_MAX_WIDTH = 1600;
 
@@ -121,6 +128,7 @@
   }
 
   function init() {
+    initCopyrightYear();
     initBackToTop();
     initCompactLayout();
     initMobileDrawer();
